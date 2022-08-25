@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Opstacle
+  - Biger Scale
+  - Smaller Scale
+  - Wall Disappear
+  - Left Force
+  - Right Force
+  - Smaller Ball Maze
+  - TB Out Maze
+  - TB Into Maze
+  - Jump
+  - Forward Force
+  - Backward Force
+  - Player Biger Mass
+  - Player Smaller Mass
+  - Check Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
